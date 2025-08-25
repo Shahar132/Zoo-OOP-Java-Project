@@ -21,6 +21,8 @@ The system models different types of animals (cats, lions, penguins, eagles, fis
 
 ##  Project Structure
 
+```
+
 src/
 ├── abstract_classes/ # Abstract base classes (AnimalAbstract, FishAbstract, etc.)
 ├── animals/ # Implementations of animals (Cat, Lion, Penguin, etc.)
@@ -30,6 +32,7 @@ src/
 ├── sorting_strategics/ # Data structures (Binary Tree, Linked List)
 └── zoo/ # Core zoo logic, exceptions, and main application
 
+```
 ---
 
 ##  How to Run
