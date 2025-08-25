@@ -24,13 +24,13 @@ The system models different types of animals (cats, lions, penguins, eagles, fis
 ```
 
 src/
-├── abstract_classes/ # Abstract base classes (AnimalAbstract, FishAbstract, etc.)
-├── animals/ # Implementations of animals (Cat, Lion, Penguin, etc.)
-├── comparators/ # Custom comparators for sorting
-├── enums/ # Enums for attributes like fish color, eagle types, etc.
-├── interfaces/ # Interfaces for animal behaviors & collections
-├── sorting_strategics/ # Data structures (Binary Tree, Linked List)
-└── zoo/ # Core zoo logic, exceptions, and main application
+├── abstract_classes/     `# Abstract base classes (AnimalAbstract, FishAbstract, etc.)
+├── animals/              `# Implementations of animals (Cat, Lion, Penguin, etc.)
+├── comparators/          `# Custom comparators for sorting
+├── enums/                `# Enums for attributes like fish color, eagle types, etc.
+├── interfaces/           `# Interfaces for animal behaviors & collections
+├── sorting_strategics/   `# Data structures (Binary Tree, Linked List)
+└── zoo/                  `# Core zoo logic, exceptions, and main application
 
 ```
 ---
