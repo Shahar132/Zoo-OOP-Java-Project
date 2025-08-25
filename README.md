@@ -20,6 +20,7 @@ The system models different types of animals (cats, lions, penguins, eagles, fis
 ---
 
 ##  Project Structure
+
 src/
 ├── abstract_classes/ # Abstract base classes (AnimalAbstract, FishAbstract, etc.)
 ├── animals/ # Implementations of animals (Cat, Lion, Penguin, etc.)
