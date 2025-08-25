@@ -30,7 +30,6 @@ src/
 ├── sorting_strategics/ # Data structures (Binary Tree, Linked List)
 └── zoo/ # Core zoo logic, exceptions, and main application
 
-
 ---
 
 ##  How to Run
